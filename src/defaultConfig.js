@@ -4,3 +4,4 @@ import .defaultConfigs.abduction;
 import .defaultConfigs.avoider;
 import .defaultConfigs.runner;
 import .defaultConfigs.flappyBee;
+import .defaultConfigs.flying_heroes;
